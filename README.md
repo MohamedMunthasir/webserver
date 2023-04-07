@@ -1,4 +1,4 @@
-#lab01 Developing a Simple Webserver
+# lab01 Developing a Simple Webserver
 
 # AIM:
 
@@ -57,8 +57,11 @@ httpd = HTTPServer(server_address,myhandler)
 print("my webserver is running...")
 httpd.serve_forever()
 '''
+
 ## OUTPUT:
+
 ![OUTPUT](./out1.png)
 ![OUTPUT](./out2.png)
+
 ## RESULT:
 The program is executed succesfully
